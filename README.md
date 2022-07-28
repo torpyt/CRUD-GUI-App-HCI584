@@ -19,6 +19,8 @@ python CRUD_GUI_App_HCI584.py
 * Click on the application window to load all data before using
 * To add a part to the list: Input desired information into input boxes, press Add Part
 * ERROR WARNING: If you do not input any information and try to add a part, an error message will appear. Close the error message and input the needed information to add a part
+<img width="709" alt="image" src="https://user-images.githubusercontent.com/106179967/181602279-d1ca442d-58d6-40ec-9752-6dd93fa33050.png">
+
 * To remove a part from the list: Click on part that you would like to remove, and then press Remove Part
 * To update a part on the list: Click on part that you wouldl like to update, then edit the desired input, then press Update Part
 * To clear all input fields: Press Clear Input
